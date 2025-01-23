@@ -36,7 +36,7 @@ pip install pillow screeninfo tkinter
 3. Run the script from the command line:
 
 ```bash
-python lively_wallpaper_slideshow.py
+python slideshow.py
 ```
 
 **Notes**
