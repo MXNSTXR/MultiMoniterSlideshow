@@ -25,7 +25,7 @@ pip install pillow screeninfo tkinter
 
 **Usage**
 
-1. Save the script as `wallpaper_slideshow.py`.
+1. Save the script as `slideshow.py`.
 2. Edit the following configuration variables in the script:
 
     * `image_path`: The path to the folder containing your wallpaper images.
