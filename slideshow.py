@@ -5,7 +5,7 @@ from screeninfo import get_monitors
 import tkinter as tk
 
 # Configuration
-image_path = r"D:\Pictures\Lively Wallpapers"  # Use raw string
+image_path = r"D:\Pictures\ComfyUIFlux"  # Use raw string
 total_width, total_height = (3743, 2375)
 # new_width, new_height = (nw, nh)
 monitor_x_offset = -1034
